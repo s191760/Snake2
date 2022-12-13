@@ -1,0 +1,14 @@
+﻿  Snake2.cpp
+E:\Projekt informatyka\Snake2\Snake2\Snake2.cpp(38,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+E:\Projekt informatyka\Snake2\Snake2\Snake2.cpp(46,30): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+E:\Projekt informatyka\Snake2\Snake2\Snake2.cpp(70,37): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+E:\Projekt informatyka\Snake2\Snake2\Snake2.cpp(70,27): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+E:\Projekt informatyka\Snake2\Snake2\Snake2.cpp(74,46): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+E:\Projekt informatyka\Snake2\Snake2\Snake2.cpp(74,31): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+E:\Projekt informatyka\Snake2\Snake2\Snake2.cpp(76,39): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+E:\Projekt informatyka\Snake2\Snake2\Snake2.cpp(76,27): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+  All 98 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  Snake2.vcxproj -> E:\Projekt informatyka\Snake2\x64\Release\Snake2.exe
